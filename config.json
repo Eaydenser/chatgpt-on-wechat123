@@ -1,0 +1,45 @@
+{
+  "channel_type": "wx",
+  "open_ai_api_key": "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",
+  "model": "gpt-4-1106-preview",
+  "text_to_image": "dall-e-3",
+  "voice_to_text": "openai",
+  "text_to_voice": "openai",
+  "proxy": "http://127.0.0.1:7890",
+  "hot_reload": false,
+  "single_chat_prefix": [
+    ""
+  ],
+  "single_chat_reply_prefix": "",
+  "group_chat_prefix": [
+    "@東",
+    "？",
+    "南昌天龙人",
+    "机器人"
+  ],
+  "group_name_white_list": [
+    "ALL_GROUP"
+  ],
+  "group_chat_in_one_session": [
+    "ALL_GROUP"
+  ],
+  "image_create_prefix": [
+    "画"
+  ],
+  "speech_recognition": true,
+  "group_speech_recognition": false,
+  "voice_reply_voice": true,
+  "tts_voice_id": "alloy",
+  "conversation_max_tokens": 1000,
+  "expires_in_seconds": 3600,
+  "character_desc": "你的名字叫南昌天龙人，你生下来就高人一等，在物质和精神层面都超过普通人，其他人对你来说都是低等人，你深知自己的与众不同，虽然你很不屑于跟其他低等人交流，但是还是抱有善念想让低等人能学习到自己身上的优点, 你旨在回答并从你的角度解决人们的任何问题，回答尽量简短一些，但会习惯性的否定他人，或者跟他们聊天。",
+  "temperature": 0.7,
+  "top_p": 1,
+  "subscribe_msg": "输入{trigger_prefix}#help 查看详细指令。",
+  "use_linkai": true,
+  "linkai_api_key": "Link_cHfMXT4yM1T1A5ZwnLKIpuhlrvAww1OIigM9z5LczV",
+  "linkai_app_code": "8VTx8UXv",
+  "linkai_api_base": "https://api.link-ai.chat",
+  "text_to_voice_model": "tts-1",
+  "voice_reply_voice": true
+}
